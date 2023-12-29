@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: rgb(8, 5, 153);
+  padding: 150px;
+}
+
+h1 {
+  color: whitesmoke;
+}
+
+th, td, tr {
+  text-align: center;
+  color: whitesmoke;
+}
+
+table {
+  margin: 0 auto;
+  
+}
+
+p {
+  color: whitesmoke;
+}
